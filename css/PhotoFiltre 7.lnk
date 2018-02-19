@@ -1,0 +1,6 @@
+.container {background-color: blue; width: 300px; height: 400px; padding: 30px;}
+input {border: 1px solid lightblue; padding: 15px;}
+input:focus {border: 2px solid lightblue;}
+#button1 {padding: 15px; color: #fff; background-color: blue;}
+.list-item {padding: 15px; color: #fff; background-color: blue;}
+li {list-style-type: none;}
